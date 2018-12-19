@@ -1,0 +1,5 @@
+b =input()
+list1=b.split(',')
+tup1=tuple(list1)
+print(list1)
+print(tup1)
